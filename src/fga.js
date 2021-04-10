@@ -6,7 +6,7 @@ const fga = (prefix, sender) => {
   ❏ ${prefix}random
   ❏ ${prefix}s
   ❏ ${prefix}sticker
-  ❏ ${prefix}img」`
+  ❏ ${prefix}img 」`
 }
 
 exports.fga = fga
