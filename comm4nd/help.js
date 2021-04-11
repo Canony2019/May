@@ -31,4 +31,4 @@ const help = (prefix) => {
   ❏ SAC: wa.me/+5511930758170 」`
 }
 
-cv1.wpp = help
+exports.help = help
