@@ -5,12 +5,13 @@ const fga = (prefix, sender) => {
   ❏ ${prefix}amongus
   ❏ ${prefix}random
   ❏ ${prefix}hentai
+  ❏ ${prefix}img
   ❏ ${prefix}trigger
   ❏ ${prefix}wasted
   ❏ ${prefix}semoji
-  ❏ ${prefix}s
   ❏ ${prefix}sticker
-  ❏ ${prefix}img 」`
+  ❏ ${prefix}s
+  ❏ ${prefix}stickerwa (nome do sticker) 」`
 }
 
 exports.fga = fga
