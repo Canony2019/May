@@ -1,4 +1,4 @@
-cv1.wpp = (pushname) => {
+exports.wpp = (pushname) => {
    return `
 「 *May Bot* 」
 「 Olá ${pushname}
