@@ -7,6 +7,7 @@ const fga = (prefix, sender) => {
   ❏ ${prefix}hentai
   ❏ ${prefix}trigger
   ❏ ${prefix}wasted
+  ❏ ${prefix}semoji
   ❏ ${prefix}s
   ❏ ${prefix}sticker
   ❏ ${prefix}img 」`
