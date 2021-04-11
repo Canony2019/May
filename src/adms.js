@@ -2,7 +2,7 @@ const adms = (prefix, pushname) => {
 	return `「 *ADMS* 」
 ❏ ${prefix}antifake
 ❏ ${prefix}antilink
-❏ ${prefix}leveling
+❏ ${prefix}nsfw
 ❏ ${prefix}welcome
 ❏ ${prefix}link
 ❏ ${prefix}simih (ia)
