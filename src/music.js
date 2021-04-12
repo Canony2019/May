@@ -5,6 +5,7 @@ const music = (prefix, sender) => {
   ❏ ${prefix}play2 (nome da música)
   ❏ ${prefix}bass
   ❏ ${prefix}slow
+  ❏ ${prefix}tkmusic
   ❏ ${prefix}mp3`
 }
 
