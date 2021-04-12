@@ -11,6 +11,8 @@ const fga = (prefix, sender) => {
   ❏ ${prefix}semoji
   ❏ ${prefix}sticker
   ❏ ${prefix}s
+  ❏ ${prefix}s2
+  ❏ ${prefix}gif
   ❏ ${prefix}stickerwa (nome do sticker) 」`
 }
 
