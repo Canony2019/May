@@ -12,7 +12,7 @@ const fga = (prefix, sender) => {
   ❏ ${prefix}sticker
   ❏ ${prefix}s
   ❏ ${prefix}s2
-  ❏ ${prefix}gif
+  ❏ ${prefix}dado
   ❏ ${prefix}stickerwa (nome do sticker) 」`
 }
 
