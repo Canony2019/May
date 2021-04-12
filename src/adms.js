@@ -3,6 +3,7 @@ const adms = (prefix, pushname) => {
 ❏ ${prefix}antifake
 ❏ ${prefix}antilink
 ❏ ${prefix}nsfw
+❏ ${prefix}on
 ❏ ${prefix}welcome
 ❏ ${prefix}link
 ❏ ${prefix}simih (ia)
