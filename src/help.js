@@ -1,6 +1,6 @@
 const help = (prefix) => {
 	return `
-「 *May Bot* 」
+「 *Migui Bot* 」
 
 「 Olá ${pushname}
   ❏ Prefixo: ${prefix} 」
