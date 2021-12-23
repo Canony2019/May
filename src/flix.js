@@ -1,5 +1,5 @@
 const flix = (prefix, pushname) => {
-	return `「 *May* 」
+	return `「 *Migui* 」
 ◪ *FILMES*
   ❏ Site: redecanais.app/index.html
   ❏ **BOM FILME** ❏
