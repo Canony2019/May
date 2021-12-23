@@ -7,7 +7,7 @@ const entretenimento = (prefix) => {
    ❏ ${prefix}buscar
    ❏ ${prefix}kill
    ❏ ${prefix}tapa
-   ❏ ${prefix}xhamster
+   ❏ ${prefix}.
    ❏ ${prefix}cobrar
    ❏ ${prefix}lyric (tipografia)
    ❏ ${prefix}cassino
