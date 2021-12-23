@@ -1,12 +1,12 @@
 const about = (prefix, pushname) => {
 	return `「 *ABOUT* 」
 
-「 May Bot 
+「 Migui Bot 
   ❏ Criação: 2020
   ❏ Versão: 4.0
   ❏ Plataforma: Mobile
   ❏ Sistema: Android
-  ❏ Criador: Thoth 」`
+  ❏ Criador: ReiNoob 」`
 }
 
 exports.about = about
