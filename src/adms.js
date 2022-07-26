@@ -18,7 +18,7 @@ const adms = (prefix, pushname) => {
 ❏ ${prefix}rankcaco
 ❏ ${prefix}membros
 ❏ ${prefix}notif
-❏ ${prefix}gostosa`
+❏ ${prefix}gostosa
 }
 
 exports.adms = adms
