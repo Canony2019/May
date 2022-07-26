@@ -1,7 +1,7 @@
 const credits = (prefix, pushname) => {
 	return `「 *CRÉDITOS* 」
 「 OBRIGADO 🥰 」
-  ❏ Criador : ReiNoob
+  ❏ Criador : Rahdixz
 }
 
 exports.credits = credits
